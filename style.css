@@ -1,0 +1,11 @@
+.navbar-brand img{
+    width: 200px;
+}
+
+/* meadia query  */
+
+@media (max-width: 992px){
+    #home > .row {
+        flex-direction: column-reverse;
+    }
+}
